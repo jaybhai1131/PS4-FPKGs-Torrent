@@ -30,9 +30,13 @@ Game torrent files are organized alphabetically by game title, making it easier 
 - Respect game developers' intellectual property rights and applicable copyright laws.
 - This repository does not host or distribute copyrighted game content directly.
 
-## 🤝 Contributions
+## 🙏 Credits & Acknowledgements
 
-Contributions to improve the organization, documentation, and accuracy of this collection are welcome.
+Special thanks to Maelly Pooh for gathering and compiling the original collection of files.
+
+This repository is organized and maintained as a convenient way to access and browse the collected torrent files.
+
+All credit for the original file gathering and collection goes to Maelly Pooh.
 
 ## ⭐ Support
 
